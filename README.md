@@ -1,2 +1,25 @@
-# resource
-收集的一些视频资源，百度云。。。
+### 1. [优效学院java架构师课程](https://pan.baidu.com/s/167LYPdoAk6X8TrBxUCb91A)  提取码：`ysws` 
+
+### 2. [十次方微服务开发](https://pan.baidu.com/s/116CdFRPcEE78F5JQoYJkJQ)   提取码: `5axm`
+
+### 3. [新版React Native+Redux打造高质量上线App](https://pan.baidu.com/s/1T8R-fG5DqN6ndTaO_VpGCA)   提取码: `ada1`
+
+### 4. [Vue技术栈开发实战](https://pan.baidu.com/s/117pugRV4LT3TgN3lFdj6xQ)   提取码: `n2s5`
+
+### 5. [极客时间 NGINX 100讲](https://pan.baidu.com/s/1A02_UIm2tX0RB9jNw1duAw)   提取码: `769m`  
+
+### 6. [2018最新web全栈架构师第四期](https://pan.baidu.com/s/19ej_6C-WhoG4hu8jErSfUw)  提取码: `y4fp` &nbsp;&nbsp;&nbsp;&nbsp; 解压码：`alibaba`
+
+### 7. [java百万年薪架构师001期【完整版】2019年新](https://pan.baidu.com/s/1Cz3lBGgGdO7SaK1o9KapLg) 提取码：`0vhj` &nbsp;&nbsp;&nbsp;&nbsp;压缩包解压密码：NMWOxO3jOSA8dsYb
+
+### 8. [【区块链实战】Golang公链项目实战【完整版】2018](https://pan.baidu.com/s/1RqxRtjkx2OIiWpkBEp5wCw)  提取码：`z7se` &nbsp;&nbsp;&nbsp;&nbsp;压缩包解压密码：za0uQmcGttytYqQ3 
+
+### 9.  [10天彻底搞定-webpack4.0](https://pan.baidu.com/s/1wLTkrUR0DUepfl7nrWfHMA)  提取码: `2b6d` 
+
+### 10.  [Java仿抖音短视频小程序开发 全栈式实战项目](https://pan.baidu.com/s/1Zgy_DE48Nv8EpIw2EQqBRA)  提取码: `61i7` 
+
+### 11. [Python爬虫工程师必学 App数据抓取实战](https://pan.baidu.com/s/1mgayoY4bz5hce_qHlIA-6w)  提取码: `vhhu`
+
+### 12. [廖雪峰爬虫](https://pan.baidu.com/s/1ytH8zIqSDDz5f4YxsRSbLQ)  提取码: `b5st` 
+
+
