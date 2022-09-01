@@ -28,6 +28,9 @@
 - [Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
   > 专注于讲解 Node.js 调试，涉及 CPU、内存、代码、工具、APM、日志、监控、应用。
 
+- [深入浅出 Webpack](https://webpack.wuhaolin.cn/)
+  > 本书从实践出发，用简单易懂的例子带你快速入门Webpack，再结合实际工作中常用的场景给出最佳实战，通过前3章的学习足以让你解决工作中的常见问题； 本书还介绍了如何优化构建的速度和输出，并解析了Webpack的工作原理，以及 Plugin和Loader的编写方法，可帮助你进一步学习Webpack。 本书按照入门、配置、实战、优化和原理的路线层层深入，涵盖了Webpack的方方面面。
+
 # R
 
 ## 容器
