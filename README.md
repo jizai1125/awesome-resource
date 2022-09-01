@@ -7,10 +7,6 @@
 
 # Q
 
-## 前端
-
----
-
 ## 前端书籍
 
 - [javascript-algorithms（javascript 算法）](https://github.com/trekhleb/javascript-algorithms)
