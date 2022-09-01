@@ -27,6 +27,8 @@
 # R
 
 ## 容器
+- [Docker — 从入门到实践](https://vuepress.mirror.docker-practice.com/)
+  > 本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。
 
 - [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
   > k8s 教程，侧重于实战引导，以渐进式修改代码的方式，将从最基础的 container 容器的定义开始，经过 pod, deployment, servcie, ingress, configmap, secret 等资源直到用 helm 来打包部署一套完整服务。 
