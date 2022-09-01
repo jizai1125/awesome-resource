@@ -2,8 +2,8 @@
 
 + [Q](#Q)
     - [前端书籍](#前端书籍)
-
-
++ [R](#R)
+    - [容器](#容器)
 # Q
 
 ## 前端书籍
@@ -24,5 +24,9 @@
 
   > 满足您所有开发需求的简短JavaScript代码段
 
+# R
 
+## 容器
 
+- [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
+  > k8s 教程，侧重于实战引导，以渐进式修改代码的方式，将从最基础的 container 容器的定义开始，经过 pod, deployment, servcie, ingress, configmap, secret 等资源直到用 helm 来打包部署一套完整服务。 
