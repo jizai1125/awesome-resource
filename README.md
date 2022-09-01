@@ -18,7 +18,7 @@
 
 
 
-### [ F ]
+# F
 
 ## 服务器
 - ##### [极客时间 NGINX 100讲](https://pan.baidu.com/s/15arxCHr6xKPbAHBruEPdMw)   提取码: `a7tl`  
