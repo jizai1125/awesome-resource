@@ -1,30 +1,13 @@
 ## 目录
-+ [F](#F)
-    - [服务器](#服务器) 
-    
-+ [J](#J)
-    - [Java](#Java)
 
 + [Q](#Q)
     - [前端](#前端)
     - [前端书籍](#前端书籍)
 
 
-# F
-
-## 服务器
-- ##### [极客时间 NGINX 100讲](https://pan.baidu.com/s/15arxCHr6xKPbAHBruEPdMw)   提取码: `a7tl`  
-- ##### [基于SpringCloud 微服务架构 广告系统设计与实现](https://pan.baidu.com/s/1ZQKd762IGVEQ8LDhmmRGRA)   提取码: `q9dq`  
-
----
-
-# J
-
-## Java
-
 # Q
 
-## 前端 
+## 前端
 
 ---
 
