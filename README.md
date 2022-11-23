@@ -54,10 +54,12 @@
 ### TypeScript
 
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
+
   > 从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript。本书是作者在学习 TypeScript 后整理的学习笔记。
 
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
   > 此书是 《TypeScript Deep Dive》 的中文翻译版，从基础到深入，很全面的阐述了 TypeScript 的各种魔法，不管你是新手，还是老鸟，它都将适应你。此外，它不同于 TypeScript 官方给出的文档（当然 TypeScript 给出的文档是很好的），在此书中，结合实际应用下的场景用例，你将能更深入的理解 TypeScript。
+
 ### JavaScript
 
 - [JavaScript 二十年](https://cn.history.js.org/)
@@ -85,6 +87,9 @@
 - [CSS 教程](https://pengfeixc.com/tutorial/css/introduction)
 
   > 这是针对新人的 CSS 入门级教程。本教程会介绍 CSS 的所有内容，既可以当做入门教程，也可以用作参考手册。
+
+- [CSS Grid 网格布局教程](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
+  > Grid 布局与 Flex 布局有一定的相似性，都可以指定容器内部多个项目的位置。但是，它们也存在重大区别。Flex 布局是轴线布局，只能指定"项目"针对轴线的位置，可以看作是一维布局。Grid 布局则是将容器划分成"行"和"列"，产生单元格，然后指定"项目所在"的单元格，可以看作是二维布局。Grid 布局远比 Flex 布局强大。
 
 ### Node
 
