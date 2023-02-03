@@ -17,6 +17,7 @@
 - [R](#r)
   - [容器](#容器)
 - [S](#s)
+  - [算法](#算法)
   - [设计模式](#设计模式)
 - [T](#t)
   - [图形](#图形)
@@ -126,6 +127,12 @@
   > k8s 教程，侧重于实战引导，以渐进式修改代码的方式，将从最基础的 container 容器的定义开始，经过 pod, deployment, servcie, ingress, configmap, secret 等资源直到用 helm 来打包部署一套完整服务。
 
 # S
+
+## 算法
+
+- [Hello，算法](https://www.hello-algo.com/)
+
+  > 一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift 等语言。
 
 ## 设计模式
 
