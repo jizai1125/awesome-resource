@@ -69,6 +69,11 @@
 
 ### JavaScript
 
+- [JavaScript 函数式编程指南（中文版）](https://llh911001.gitbooks.io/b-guide-chinese/content/)
+  
+  > 这本书的主题是函数范式（functional paradigm），我们将使用 JavaScript 这个世界上最流行的函数式编程语言来讲述这一主题。英文原版地址 [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
+
+
 - [ES6 入门教程](https://es6.ruanyifeng.com/)
 
   > 全面介绍 ECMAScript 6 新引入的语法特性。本书覆盖 ES6 与上一个版本 ES5 的所有不同之处，对涉及的语法知识给予详细介绍，并给出大量简洁易懂的示例代码。用来了解这门语言的最新发展；也可当作参考手册，查寻新增的语法点。
