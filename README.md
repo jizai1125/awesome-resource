@@ -8,6 +8,8 @@
   - [GIS](#gis)
 - [L](#l)
   - [浏览器](#浏览器)
+- [N](#n)
+  - [Nginx](#nginx)
 - [P](#p)
   - [Python](#python)
 - [Q](#q)
@@ -37,13 +39,13 @@
 
 ## Git
 
-- [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
-
-  > 互动式学习 Git 命令
-
 - [猴子都能懂的 GIT 入门](https://backlog.com/git-tutorial/cn/)
 
   > 欢迎来到超级简单的 Git 入门，让我们一起学习如何使用 Git 进行版本管理吧！共有 3 个课程。Git 初学者请从“入门篇”开始，有 Git 使用经验者建议直接从“高级篇”开始。碰到“哎呀，是什么呢？”的时候，可以尝试查询“Git 索引”。
+
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
+
+  > 互动式学习 Git 命令
 
 ## GIS
 
@@ -59,6 +61,18 @@
   
   > Web 浏览器可能是使用最广泛的软件。在本书中，我将解释它们如何在幕后工作，从在地址栏中输入 google.com 到看到 Google页面过程中发生了什么。英文原版 [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 
+# N
+
+## Nginx
+
+- [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
+
+  > 本书的作者为淘宝核心系统服务器平台组的成员，本书写作的思路是从模块开发逐渐过渡到nginx原理剖析。
+
+- [Nginx 极简教程](https://dunwu.github.io/nginx-tutorial/#/nginx-quickstart)
+
+  > 本项目是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。
+
 # P
 
 ## Python
@@ -73,19 +87,18 @@
 
 ### TypeScript
 
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+  > 此书是 《TypeScript Deep Dive》 的中文翻译版，从基础到深入，很全面的阐述了 TypeScript 的各种魔法，不管你是新手，还是老鸟，它都将适应你。此外，它不同于 TypeScript 官方给出的文档（当然 TypeScript 给出的文档是很好的），在此书中，结合实际应用下的场景用例，你将能更深入的理解 TypeScript。
+
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
 
   > 从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript。本书是作者在学习 TypeScript 后整理的学习笔记。
 
-- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
-  > 此书是 《TypeScript Deep Dive》 的中文翻译版，从基础到深入，很全面的阐述了 TypeScript 的各种魔法，不管你是新手，还是老鸟，它都将适应你。此外，它不同于 TypeScript 官方给出的文档（当然 TypeScript 给出的文档是很好的），在此书中，结合实际应用下的场景用例，你将能更深入的理解 TypeScript。
-
 ### JavaScript
 
-- [JavaScript 函数式编程指南（中文版）](https://llh911001.gitbooks.io/b-guide-chinese/content/)
-  
-  > 这本书的主题是函数范式（functional paradigm），我们将使用 JavaScript 这个世界上最流行的函数式编程语言来讲述这一主题。英文原版地址 [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
+  > 适用于 JavaScript 的简洁代码概念。
 
 - [ES6 入门教程](https://es6.ruanyifeng.com/)
 
@@ -95,17 +108,18 @@
 
   > 本书由 JavaScript 之父 Brendan Eich 与 ES6 规范首席作者 Allen Wirfs-Brock 联合编写，详细记载和解读了自 1995 年语言诞生到 2015 年 ES6 规范制定为止，共计 20 年的 JavaScript 语言演化历程。全书不仅讲解了大量语言技术细节层面的演进，更复盘了更高层面上规范制定与标准博弈中的历史成败，是一部讲述人类如何在商业与技术上的竞争合作中促进产业发展的故事。
 
-- [javascript-algorithms（javascript 算法）](https://github.com/trekhleb/javascript-algorithms)
+- [JavaScript-Algorithms（javascript 算法）](https://github.com/trekhleb/javascript-algorithms)
 
   > 用 JavaScript 实现的算法和数据结构，并带有解释和进一步阅读的链接。
+
+- [JavaScript 函数式编程指南（中文版）](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
+  
+  > 这本书的主题是函数范式（functional paradigm），我们将使用 JavaScript 这个世界上最流行的函数式编程语言来讲述这一主题。英文原版地址 [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
+
 
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
   > 这是一系列深入探讨 JavaScript 语言核心机制的书籍。这是**第二版**。
-
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-
-  > 适用于 JavaScript 的简洁代码概念。
 
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 
