@@ -6,8 +6,10 @@
 - [G](#g)
   - [Git](#git)
   - [GIS](#gis)
+  - [GPU](#gpu)
 - [J](#j)
   - [Java](#java)
+  - [计算机知识](#计算机知识)
 - [L](#l)
   - [浏览器](#浏览器)
 - [N](#n)
@@ -58,6 +60,12 @@
 
   > 现代 WebGIS 是现代 Web 技术在 GIS 中的应用。现代 WebGIS 的体系结构与其他现代 Web 项目的体系结构没有太多本质上的区别，唯一不同的是 WebGIS 需要提供一些地图方面的功能服务，即：GIS 服务资源。
 
+## GPU
+
+- [WebGPU Fundamentals](https://github.com/gfxfundamentals/webgpufundamentals)
+
+  > WebGPU 开发知识的英文教程
+
 # J
 
 ## Java
@@ -65,6 +73,12 @@
 - [Java 编程教程](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)
 
   > 这个网站是新加坡南洋理工大学的一位老师的教案（英文），主要内容为新生的 Java 编程。
+
+## 计算机知识
+
+- [计算机程序的构造和解释（JavaScript 版）](https://sourceacademy.org/sicpjs/index)
+
+  > 这是名著《SICP》（计算机程序的构造和解释）一书的官方 JavaScript 版，并且是麻省理工学院的官方版本，可以免费阅读，[参见介绍](https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/)
 
 # L
 
