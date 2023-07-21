@@ -108,6 +108,10 @@
 
   > 互动式学习 Python
 
+- [Python 数据分析（第三版）](https://wesmckinney.com/book/)
+
+  > 一本英文教材，讲授 Python 数据分析的初步知识，免费阅读。
+
 # Q
 
 ## 前端相关
