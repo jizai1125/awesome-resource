@@ -18,10 +18,11 @@
   - [Python](#python)
 - [Q](#q)
     - [前端相关](#前端相关)
-      - [TypeScript](#typescript)
-      - [JavaScript](#javascript)
       - [Css](#css)
+      - [JavaScript](#javascript)
+      - [TypeScript](#typescript)
       - [Node](#node)
+      - [ORM](#orm)
       - [构建工具](#构建工具)
 - [R](#r)
   - [容器](#容器)
@@ -170,6 +171,12 @@
 - [Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
 
   > 专注于讲解 Node.js 调试，涉及 CPU、内存、代码、工具、APM、日志、监控、应用。
+
+### ORM
+
+- [Prisma's Data Guide](https://www.prisma.io/dataguide)
+
+  > JS 语言著名的数据库工具包 Prisma，官网上面有一个数据库教程（英文），讲解数据库基本概念和 ORM 关系模型的用法，内容不错。
 
 ### 构建工具
 
