@@ -15,6 +15,7 @@
 - [N](#n)
   - [Nginx](#nginx)
 - [P](#p)
+  - [PHP](#php)
   - [Python](#python)
 - [Q](#q)
     - [前端相关](#前端相关)
@@ -102,6 +103,12 @@
   > 本项目是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。
 
 # P
+
+## PHP
+
+- [穿透 Laravel](http://www.idocloud.net/pttl/index.html)
+
+> 带你一起探知Laravel框架底层的实现细节。
 
 ## Python
 
