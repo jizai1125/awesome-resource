@@ -217,6 +217,11 @@
 
   > 以图例的形式讲解 22 种经典设计模式，并附有各个语言的示例代码。
 
+- [Patterns.dev](https://www.patterns.dev)
+
+  > Patterns.dev is a free online resource on design, rendering, and performance patterns for building powerful web apps with vanilla JavaScript or modern framework.
+  这个学习网站讲解了 xxx 中有哪些开发模式、渲染模式，包含三部分：原生 JS、Vue、React。
+
 # T
 
 ## 图形
