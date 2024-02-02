@@ -7,6 +7,8 @@
   - [Git](#git)
   - [GIS](#gis)
   - [GPU](#gpu)
+- [I](#i)
+  - [iOS](#ios)
 - [J](#j)
   - [Java](#java)
   - [计算机知识](#计算机知识)
@@ -67,6 +69,14 @@
 - [WebGPU Fundamentals](https://github.com/gfxfundamentals/webgpufundamentals)
 
   > WebGPU 开发知识的英文教程
+
+# I
+
+## iOS
+
+- [iOS 应用开发教程](https://cs193p.sites.stanford.edu/2023)
+
+  > 斯坦福大学2023年学年的一个英文课程，现在已经全部上网，包含讲课视频和课件。
 
 # J
 
