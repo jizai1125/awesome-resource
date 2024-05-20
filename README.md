@@ -14,6 +14,8 @@
   - [计算机知识](#计算机知识)
 - [L](#l)
   - [浏览器](#浏览器)
+  - [LLM](#llm)
+    - [大语言模型](#大语言模型)
 - [N](#n)
   - [Nginx](#nginx)
 - [P](#p)
@@ -36,7 +38,6 @@
   - [图形](#图形)
 - [W](#w)
   - [Web 3](#web3)
-
 
 # F
 
@@ -96,9 +97,14 @@
 
 ## 浏览器
 
-- [浏览器的工作原理（中文版）]()
+- [浏览器的工作原理（中文版）](http://taligarsiel.com/Projects/howbrowserswork1.htm)
   
   > Web 浏览器可能是使用最广泛的软件。在本书中，我将解释它们如何在幕后工作，从在地址栏中输入 google.com 到看到 Google页面过程中发生了什么。英文原版 [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
+
+## LLM
+
+- [大语言模型](https://github.com/LLMBook-zh/LLMBook-zh.github.io)
+  > 希望读者通过阅读本书，能够深入了解大模型技术的现状和未来趋势，为自己的研究和实践提供指导和启发。让我们携手努力，共同推动人工智能技术的发展，为建立更智能、更可持续的未来做出贡献。
 
 # N
 
