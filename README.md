@@ -32,6 +32,7 @@
 - [R](#r)
   - [容器](#容器)
 - [S](#s)
+  - [SVG](#svg)
   - [算法](#算法)
   - [设计模式](#设计模式)
 - [T](#t)
@@ -220,6 +221,12 @@
   > k8s 教程，侧重于实战引导，以渐进式修改代码的方式，将从最基础的 container 容器的定义开始，经过 pod, deployment, servcie, ingress, configmap, secret 等资源直到用 helm 来打包部署一套完整服务。
 
 # S
+
+## SVG
+
+- [SVG Tutorial](https://svg-tutorial.com/)
+
+  > Learn how to code images in HTML with SVG
 
 ## 算法
 
